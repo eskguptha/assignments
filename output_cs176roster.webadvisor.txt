@@ -1,0 +1,19 @@
+Arif, Asad,0937323,CS,02,A. Milewski
+Blazier, Tighe R.,0954026,CS,02,J. Rohn
+Brown, Elishua S.,0949759,CS,02,D. Rosca
+Cao, My Thinh T.,1034644,MA,03,B. Liu
+DeRosa, Robert F.,1036171,CS,03,J. Van Arsdale
+DiRe, Alyssa A.,0991584,SE,02,J. Van Arsdale
+Kaczynski, Alexander H.,0838087,SE,02,J. McDonald
+Kanson, Richard E.,0932483,CS,02,C. Yu
+Koutsoutis, Alexander S.,1020367,MA,03,B. Gold
+Matthews, Kimberly S.,1014707,CS,03,R. Scherl
+Mulligan, Daniel P.,0968695,CS,FR,M. Dorment
+Nieves, Jonathan,0927351,UN,02,L. Lichter
+Olszewski, Jack,0975195,SE,FR,J. Wang
+Outcalt, Colby M.,1060730,CS,03,A. Milewski
+Rasa, Anthony R.,0835211,HLS,03,J. Comiskey
+Sciolaro, Nicolas F.,0935142,CS,02,J. Chung
+Shaw, Brandon S.,0930474,CS,02,C. Yu
+Simmer, Mitchell J.,0883434,CS,FR,J. Wang
+Torrenegra, Harry E.,0894879,SE,02,J. McDonald
