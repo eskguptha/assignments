@@ -75,7 +75,7 @@ Write your answers in python_assignment.txt. Make sure python_assignment.txt is 
 
 
 2. Reproduce Perl exercise 4 in Python. Save it as roster_dictionary.py. Include the source code in python_assignment.txt.
-# input cs371598roster
+input cs371598roster
 use hash fun in python
 
 
@@ -85,5 +85,5 @@ e.g.,
 Rasa, Anthony R., 0835211, HLS, 03, J. Comiskey
 Include the source code in python_assignment.txt.
 
-# input : cs176roster.webadvisor.txt
+input : cs176roster.webadvisor.txt
 o/p except email show in a
