@@ -63,3 +63,27 @@ The origin should vary; do not hardcode a static origin.  Also, the coordinates 
 
 ASSIGNMENT PART TWO:
 If time permits, write a suite of tests for your code in Part One.  The test cases can be written descriptions, and not necessarily in code.
+
+
+
+
+Python Assignment
+Write your answers in python_assignment.txt. Make sure python_assignment.txt is a plain text file, not a Word or RTF document. Save python_assignment.txt to your UNIX account cs371/python/assignment subdirectory (See the "Notes:" below). DO NOT email python_assignment.txt to me. DO NOT dropbox it.
+
+
+1. Describe Python's equivalent (or near equivalent) of Perl's 'use strict;' pragma. Describe Python's equivalent (or near equivalent) of Perl's '-w' runtime option. List the information source(s) you used in your answer.
+
+
+2. Reproduce Perl exercise 4 in Python. Save it as roster_dictionary.py. Include the source code in python_assignment.txt.
+# input cs371598roster
+use hash fun in python
+
+
+3. Write a Python program, roster_fields.py, that reads an old webadvisor roster file as input and writes information to an output file called ''roster'' in the following format:
+last name, first name & middle initial, student id, major, year, advisor
+e.g.,
+Rasa, Anthony R., 0835211, HLS, 03, J. Comiskey
+Include the source code in python_assignment.txt.
+
+# input : cs176roster.webadvisor.txt
+o/p except email show in a
